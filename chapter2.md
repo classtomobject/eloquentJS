@@ -25,7 +25,7 @@ for (var i = 0; i < 7; i ++){
 }
 ```
 
-Description:
+Description: <br />
 By creating an empty string, I am able to use a for loop that:
 - initializes loop by creating the counter variable "i"
 - setting an expression to check continuation of loop
@@ -37,6 +37,7 @@ By creating an empty string, I am able to use a for loop that:
 > Write a program that uses console.log to print all the numbers from 1 to 100, with two exceptions. For numbers divisible by 3, print "Fizz" instead of the number, and for numbers divisible by 5 (and not 3), print "Buzz" instead.
 FizzBuzz for numbers divisible by both 3 & 5.
 
+### Solution
 ```
 for (var i = 1; i <= 100; i++) {
   if ((i % 3 == 0) && (i % 5 == 0)) {   
@@ -54,7 +55,7 @@ for (var i = 1; i <= 100; i++) {
 }
 ```
 
-Description:
+Description: <br />
 Similar to previous example, I wanted to loop through the numbers 1-100.  <br />
 At each number, I wanted to check:
 <ul>
