@@ -27,6 +27,6 @@ for (var i = 0; i < 7; i ++){
 
 Description:
 By creating an empty string, I am able to use a for loop that:
-1. initializes loop by creating the counter variable "i"
-2. setting an expression to check continuation of loop
-3. updates the loop by incrementing by 1 every iteration
+- initializes loop by creating the counter variable "i"
+- setting an expression to check continuation of loop
+- updates the loop by incrementing by 1 every iteration
