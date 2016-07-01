@@ -1,4 +1,4 @@
-# eloquentsql
+# eloquentJS
 Projects from EloquentJS by MH
 
 Hello GitHub!
