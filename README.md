@@ -1,5 +1,5 @@
 # eloquentsql
-Projects from EloquentSQL by MH
+Projects from EloquentJS by MH
 
 Hello GitHub!
 These are my first set of projects in JavaScript. 
